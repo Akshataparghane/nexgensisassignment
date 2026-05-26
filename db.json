@@ -1,0 +1,19 @@
+{
+  "books": [
+    {
+      "title": "Deep Work",
+      "author": "Cal Newport",
+      "genre": "Productivity",
+      "publicationYear": "2015",
+      "id": "zypT1JLsw98"
+    },
+    {
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "genre": "Self- Help",
+      "publicationYear": "2018",
+      "id": "tSyYTSGC0Js"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
